@@ -1,2 +1,0 @@
-# Python-2-Assignments
-Python assignments for Semester II
